@@ -1,0 +1,11 @@
+--2018-09-25 01:53:40--  http://www.aginity.com/WB/RS/x64/files/AginityRedshiftWorkbenchSetupx64.exe
+Resolving www.aginity.com (www.aginity.com)... 52.22.180.1
+Connecting to www.aginity.com (www.aginity.com)|52.22.180.1|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘AginityRedshiftWorkbenchSetupx64.exe’
+
+          AginityRe     [<=>                 ]       0  --.-KB/s                        AginityRed     [ <=>                ] 102.96K   399KB/s                       AginityReds     [  <=>               ] 442.33K   869KB/s                      AginityRedsh     [   <=>              ]   1.67M  2.15MB/s                     AginityRedshi     [    <=>             ]   3.72M  3.65MB/s                    AginityRedshif     [     <=>            ]   5.50M  4.46MB/s                   AginityRedshift     [      <=>           ]   6.83M  4.76MB/s                  AginityRedshiftW     [       <=>          ]   7.94M  4.71MB/s                 AginityRedshiftWo     [        <=>         ]   9.38M  4.96MB/s                AginityRedshiftWor     [         <=>        ]  10.45M  5.00MB/s               AginityRedshiftWork     [          <=>       ]  11.40M  4.96MB/s               ginityRedshiftWorkb     [           <=>      ]  12.39M  4.96MB/s               inityRedshiftWorkbe     [            <=>     ]  13.46M  4.98MB/s               AginityRedshiftWork     [             <=>    ]  14.30M  5.00MB/s    in 2.9s    
+
+2018-09-25 01:53:43 (5.00 MB/s) - ‘AginityRedshiftWorkbenchSetupx64.exe’ saved [14999856]
+
